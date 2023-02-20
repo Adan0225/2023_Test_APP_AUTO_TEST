@@ -1,7 +1,6 @@
 import allure
 from appium.webdriver.webdriver import By
 
-
 @allure.epic('安卓計算機目')
 @allure.feature('V1.0版本')
 class TestAddSub():
